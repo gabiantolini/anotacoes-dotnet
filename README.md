@@ -1,2 +1,2 @@
-# anotacoes-dotnet
+# Anotações 
 Anotações da aula sobre dotnet
