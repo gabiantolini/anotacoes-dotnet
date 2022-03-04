@@ -1,0 +1,11 @@
+.NET
+
+Comandos 
+
+dotnet --version = mostra a versão instalada do .NET
+dotnet --help = mostra todos os comandos que pode ser usado
+dotnet new = novo projeto (aparecem opções para escolher o modelo de aplicação)
+dotnet new console -o myApp = console é o modelo e myapp é o nome do projeto
+dotnet build = compila antes de executar
+dotnet run = executa 
+dotnet restore = restaura 
